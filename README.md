@@ -21,7 +21,7 @@ I normally run my Dynoswitch on Milwaukee M12 drill batteries. They are cheap, l
 
 The dynamo lights are normal and still work off the dynamo in the normal way. If I take the auxiliary circuit off the bike, or the battery runs dead, the dynamo lights will always keep working like normal. And conversely, if I took the dynamo lights off the bike, the 12V system would still work as long as the dynamo hub were still there to trigger it. The Dynoswitch doesn't put any load on the dynamo hub, so even while charging my phone at 800mA, running 12V headlight and taillight, running front and rear cameras, and running 60W grip heaters, there is no extra rolling resistance. 
 
-People have asked why doesn't the dynamo hub recharge the 12V battery, but the whole point of the Dynoswitch was to get more power than the 6W dynamo hub can provide, including more energy than the hub can provide over time, but still have that "just works", zero-effort convenience of dynamo lights that come on and off automatically. 
+People have asked why doesn't the dynamo hub recharge the 12V battery, but the whole point of the Dynoswitch was to get more power than the 3W dynamo hub can provide, including more energy than the hub can provide over time, but still have that "just works", zero-effort convenience of dynamo lights that come on and off automatically. 
 
 Other people have asked what's the point of having a dynamo hub at all, when I could just use battery lights. First of all, a dynamo hub is optional, because the Dynoswitch has a mechanical switch to turn it on or off. But I like having high-powered lights that work automatically like dynamo lights. And since I still have the dynamo lights I can't accidentally run a battery down and get stranded in the dark. 
 
